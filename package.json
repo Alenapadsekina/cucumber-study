@@ -4,7 +4,7 @@
   "description": "protractor + jasmine + cucumber",
   "main": "index.js",
   "scripts": {
-    "start": "protractor conf.js"
+    "start": "node conf.js"
   },
   "author": "Alena",
   "license": "ISC",
